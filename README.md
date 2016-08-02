@@ -1,12 +1,12 @@
-# _{cat homepage}_
+# _cat homepage_
 
-#### _{a brief overview of the cat}, {08-02-16}_
 
-#### By _**{Ian Wilcox, Alex Ramirez}**_
+#### _a brief overview of the cat, 08-02-16_
+#### By _**Ian Wilcox, Alex Ramirez**_
 
 ## Description
 
-_{this is a webpage that is designed to introduce a visitor to my cat. it has information about my cat and a link to a page on cats in general.}_
+_this is a webpage that is designed to introduce a visitor to my cat. it has information about my cat and a link to a page on cats in general._
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{this is a webpage that is designed to introduce a visitor to my cat. it has in
 
 ## Known Bugs
 
-_{none at this time}_
+_none at this time_
 
 ## Support and contact details
 
-_{if a bug is encountered, contact us from our contact information and an appropriate change will occur}_
+_if a bug is encountered, contact us from our contact information and an appropriate change will occur_
 
 ## Technologies Used
 
-_{used HTML}_
+_used HTML_
 
 ### License
 
-*{MIT}*
+*MIT*
 
-Copyright (c) 2016 **_{epicodus}_**
+Copyright (c) 2016 **_epicodus_**
