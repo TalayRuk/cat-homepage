@@ -1,4 +1,10 @@
-h1 {
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+/*h1 {
   color: purple;
   text-align: center;
 }
@@ -6,12 +12,20 @@ h2 {
   color: blue;
   text-align: center;
 }
+h3 {
+  color: blue;
+  text-align: center;
+}
+h4 {
+  color: blue;
+  text-align: center;
+}
 p {
   color: yellow;
   text-align: center;
 }
-body {
-  background-color: limegreen;
+li {
+  color: red;
   text-align: center;
 }
 ul {
@@ -21,4 +35,14 @@ ul {
 ol{
   color: red;
   align: center;
+}*/
+
+.yellow-background {
+  background-color: yellow;
+  color: purple;
+}
+
+.purple-background {
+  background-color: purple;
+  color:yellow;
 }
